@@ -1,5 +1,5 @@
 # COMPUTACIÓN BLANDA - Sistemas y Computación
-#Estudiante: Steven Medina Gonzalez
+# Estudiante: Steven Medina Gonzalez
 
 # -------------------------------------------
 # Introducción a numpy
